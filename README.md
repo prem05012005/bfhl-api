@@ -16,7 +16,7 @@ REST API that exposes **POST `/bfhl`** and returns:
 Open `server.js` and change these constants:
 ```js
 const FULL_NAME = "premkumar_vusthulamuri"; // full name in lowercase with underscores
-const DOB_DDMMYYYY = "01012000";            // ddmmyyyy
+const DOB_DDMMYYYY = "05012005";            // ddmmyyyy
 const EMAIL = "your_email@vitstudent.ac.in";
 const ROLL_NUMBER = "22BCT0067p";
 ```

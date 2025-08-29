@@ -12,9 +12,9 @@ app.use(express.json({ limit: "1mb" }));
 
 // ====== CHANGE THESE VALUES ======
 const FULL_NAME = "premkumar_vusthulamuri";        // full name in lowercase with underscores
-const DOB_DDMMYYYY = "01012000";                   // <-- change to your DOB as ddmmyyyy
-const EMAIL = "your_email@vitstudent.ac.in";       // <-- change to your email
-const ROLL_NUMBER = "22BCT0067p";                  // <-- change if needed
+const DOB_DDMMYYYY = "05012005";                   // <-- change to your DOB as ddmmyyyy
+const EMAIL = "prem.kumar2022@vitstudent.ac.in";       // <-- change to your email
+const ROLL_NUMBER = "22BCT0067";                  // <-- change if needed
 // =================================
 
 function isNumericToken(token) {
